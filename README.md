@@ -47,8 +47,8 @@ Pilih menu sesuai kebutuhan dan ikuti instruksi yang muncul.
 **`Menambahkan data`**
 
 ``` python
-Masukkan nama mahasiswa: Maudy
-Masukkan NIM mahasiswa: 250306
+Masukkan nama mahasiswa: AISAH
+Masukkan NIM mahasiswa: 240505
 Masukkan nilai mahasiswa: A
 ```
 **`menampilkan data`**
