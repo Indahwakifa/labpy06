@@ -4,7 +4,7 @@ NIM : 312410559
 
 MATA KULIAH : BAHASA PEMOGRAMAN
 
-# Praktikum 6 - Pengelolaan Data Mahasiswa 
+# Praktikum 6 - Pengelolaan Data Mahasiswa  
 
 Program ini memungkinkan untuk mengelola data nilai mahasiswa dengan fitur-fitur sebagai berikut:
 
