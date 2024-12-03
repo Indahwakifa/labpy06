@@ -210,3 +210,5 @@ Jika input tidak valid, program akan meminta pengguna untuk memilih menu lagi.
 # Flow Chart alur penggunaan program
 
 ![foto](https://github.com/Indahwakifa/labpy06/blob/68a071c6d3ef69e5321bcb67b304065f03764d63/flowchart%201.jpg) 
+
+![foto](https://github.com/Indahwakifa/labpy06/blob/8bf13367f63b82a69bb6987105e77bca324e116f/flowchart%202.jpg) 
